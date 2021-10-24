@@ -4,6 +4,7 @@
 No version is being updated these days.. we just disconnect this application ..! :)
 | Version | Supported          |
 | ------- | ------------------ |
+| ------- | ------------------ |
 
 
 ## Reporting a Vulnerability
